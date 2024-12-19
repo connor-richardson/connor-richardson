@@ -1,5 +1,5 @@
-## Hello, my name is Connor Richardson
-## I'm a fourth year student at the University of Victoria majoring in Psychology & Computer Science
+## Hello, I'm Connor Richardson
+I'm a fourth year student at the University of Victoria, studying Psychology & Computer Science
 
 <!--
 **connor-richardson/connor-richardson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
