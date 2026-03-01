@@ -1,5 +1,5 @@
 ## Hello, I'm Connor Richardson
-I'm a fourth year student at the University of Victoria, studying Psychology & Computer Science
+Fifth year CSC/PSYC student at University of Victoria
 
 <!--
 **connor-richardson/connor-richardson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
