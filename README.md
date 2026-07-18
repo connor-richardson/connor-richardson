@@ -1,5 +1,6 @@
 ## Hello, I'm Connor Richardson
-BSc CSC/PSYC from University of Victoria
+B.Sc. Computer Science & Psychology  
+University of Victoria
 
 
 <!--
