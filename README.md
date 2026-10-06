@@ -1,5 +1,5 @@
 ## Hello, I'm Connor Richardson
-MS Advanced Analytics – Big Data @ SGH Warsaw
+MS Advanced Analytics – Big Data @ SGH Warsaw <br>
 B.Sc. Computer Science & Psychology @ University of Victoria
 
 
