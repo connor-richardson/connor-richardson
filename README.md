@@ -1,6 +1,6 @@
 ## Hello, I'm Connor Richardson
-B.Sc. Computer Science & Psychology  
-University of Victoria
+MS Advanced Analytics – Big Data @ SGH Warsaw
+B.Sc. Computer Science & Psychology @ University of Victoria
 
 
 <!--
